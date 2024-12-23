@@ -1,4 +1,4 @@
-# Student Management
+# Campus Enrollement App
 
 A student management application developed with Python, Tkinter, and MySQL. This project follows the MVC (Model-View-Controller) architecture for better separation of concerns. The project structure includes: **Model (`model.py`)** to handle database operations, **View (`view.py`)** to create and manage the user interface with Tkinter, **Controller (`controller.py`)** to coordinate between the view and the model, and **Main (`main.py`)** as the entry point to run the application.
 
